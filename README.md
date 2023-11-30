@@ -2,7 +2,7 @@
 Hi there! 💖
 
 My name is Sera, and I go by She/They. 
-I'm 22 years old, and I'm part Japanese, part Chinese.
+I'm 23 years old, and I'm part Japanese, part Chinese.
 
 I've been studying programming from around when I was 15, and most of what I know today is self-taught. 
 I like using my spare time to practice what I've learned, or learn new concepts/ideas in languages I am unfamiliar with. 
@@ -11,10 +11,10 @@ Discord bots, small scripts to automate tasks, video game mods, or plugin module
 
 I am __confident__ with (will be able to work, and understand on projects):
 - Python
-- Kotlin
 
 I am __learning__ (understand most concepts, need help recalling syntax):
 - C#
+- Kotlin
 - Java
 - Lua
 - Rust
