@@ -18,7 +18,7 @@ I am __learning__ (understand most concepts, need help recalling syntax):
 - Java
 - Lua
 - Rust
-- TypeScript
+- Javascript/TypeScript
 
 I am __interested__ in learning: 
 - Anything! ✨
@@ -29,7 +29,7 @@ Speaking realistically, I don't think there's much that gets in my way of learni
 I pick up on ideas very fast, and I can apply it immediately if I can understand what I'm working with. 
 
 <!---
-TODO: Add social links 
+TODO: Add my github pages here?
 
 Sureigh/Sureigh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
