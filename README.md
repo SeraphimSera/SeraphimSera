@@ -1,7 +1,7 @@
 ### About me
 Hi there! 💖
 
-My name is Sera, and I go by She/They. 
+My name is Sera (She/They). 
 I'm 24 years old, and I'm part Japanese, part Chinese.
 
 I've been studying programming from around when I was 15, and most of what I know today is self-taught. 
