@@ -9,6 +9,10 @@ I like using my spare time to practice what I've learned, or learn new concepts/
 I usually apply what I learn by applying them to projects or programs I will actually use - by messing around with things like
 Discord bots, small scripts to automate tasks, video game mods, or plugin modules for other programs.
 
+I don't usually upload my ideas or work to GitHub, to be honest - I don't see a use for it! 
+I usually apply what I create directly where I need it, so I don't usually upload to preserve my work. 
+When I do upload something here, it's mainly because I want to either showcase what I'm working on, or more likely, so I can work on my project on more than one computer.
+
 I am __confident__ with (will be able to work, and understand on projects):
 - Python
 
